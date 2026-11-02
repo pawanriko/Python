@@ -1,8 +1,8 @@
-# Python — My Python Learning Journey
+# Python
 
-A structured record of how I'm learning Python, organised module by module. Each lesson is a small, runnable file with a numbered name, plus practice exercises at the end of each module.
+This is where I learn Python. Nothing fancy — every lesson is a small file I can run, named in order, with some practice questions at the end of each module. I add new files as I learn new things.
 
-## Structure
+## How it's arranged
 
 ```
 Python/
@@ -17,16 +17,16 @@ Python/
         └── Practice
 ```
 
-## Module 1 — Basics (covered)
+## Module 1 — the basics (done)
 
-- Hello World & running your first script
+- Hello World and running your first script
 - Variables
 - Data types
 - Input / output
 - Type conversion
 - Practice exercises
 
-## How to Run
+## Run any file like this
 
 ```bash
 git clone https://github.com/pawanriko/Python.git
@@ -34,13 +34,11 @@ cd Python
 python3 "python/Module 1/00_Hello_World.py"
 ```
 
-Any lesson file can be run the same way — swap in the file name.
+Same for the rest — just change the file name.
 
-## Roadmap
+## What's next
 
-More modules will be added as I progress: control flow & loops, functions, data structures, OOP, file handling, and small projects.
+Control flow and loops, functions, data structures, OOP, file handling. Basically the order I'm learning them in. After that, small projects.
 
-## Author
-
-**Pawan Kumar** — BCA student, New Delhi
+— **Pawan Kumar**, BCA student, New Delhi
 GitHub: [@pawanriko](https://github.com/pawanriko)
